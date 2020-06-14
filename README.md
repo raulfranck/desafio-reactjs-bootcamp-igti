@@ -4,7 +4,7 @@ Desafio modulo 03 do bootcamp fullstack igti - Desenvolvido em reactjs.
 
 ### Javascript não performático
 
-1. Criar estrutura de pastas com index.html e pasta ./js com script.js
+- Criar estrutura de pastas com index.html e pasta ./js com script.js
 
 2. Modificar título de index.html
 
@@ -36,7 +36,7 @@ e ultiliza-la ao preencher o conteúdo de <l3>
 
 3. Modificar implementação do click do botão de forma que seja inserida uma <li> a cada click.
 
-*Esse app diferente do desafio01 é mais performático, nota-se isso quando damos click e adicionamos a tag li no devTools
+*Esse app diferente do desafio01 é mais performático, nota-se isso quando damos click e adicionamos a tag li no devTools*
   
   
  ### React com class Components
