@@ -1,8 +1,8 @@
 # desafio-reactjs-bootcamp-igti
 Desafio modulo 03 do bootcamp fullstack igti - Desenvolvido em reactjs.
 
+
 ### Javascript não performático
-==========================================================
 
 1. Criar estrutura de pastas com index.html e pasta ./js com script.js
 
@@ -27,8 +27,8 @@ e ultiliza-la ao preencher o conteúdo de <l3>
 
 11. Mostrar a quantidade de click no título 5a página3
 
+
 ### Javascript performático
-==========================================================
 
 1. Reaproveitar desafio 01
 
@@ -36,10 +36,10 @@ e ultiliza-la ao preencher o conteúdo de <l3>
 
 3. Modificar implementação do click do botão de forma que seja inserida uma <li> a cada click.
 
-*Esse app diferente do desafio01 é mais performático, nota-se isso quando damos click e adicionamos a tag <li> no devTools
+*Esse app diferente do desafio01 é mais performático, nota-se isso quando damos click e adicionamos a tag li no devTools
+  
   
  ### React com class Components
-===============================================
 
 1. transformar app.js em Class Component
 
@@ -49,8 +49,8 @@ e ultiliza-la ao preencher o conteúdo de <l3>
 
 4. implementar render()
 
+
 ### React com hooks
-==================================================
 
 1. Definir estado com useState
 
