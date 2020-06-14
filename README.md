@@ -4,7 +4,7 @@ Desafio modulo 03 do bootcamp fullstack igti - Desenvolvido em reactjs.
 
 ### Javascript não performático
 
-- Criar estrutura de pastas com index.html e pasta ./js com script.js
+1. Criar estrutura de pastas com index.html e pasta ./js com script.js
 
 2. Modificar título de index.html
 
